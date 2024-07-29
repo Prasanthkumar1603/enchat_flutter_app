@@ -1,0 +1,4 @@
+<key>NSCameraUsageDescription</key>
+<string>We need your permission to use the camera</string>
+<key>NSMicrophoneUsageDescription</key>
+<string>We need your permission to use the microphone</string>
